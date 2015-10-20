@@ -1,10 +1,10 @@
-#Add-SPOFieldFromXml
+#Add-SPOViewFromXml
 *Topic automatically generated on: 2015-10-13*
 
-Adds a field to a list or as a site column based upon a CAML/XML field definition
+Adds a view to a list or as a site column based upon a CAML/XML field definition
 ##Syntax
 ```powershell
-Add-SPOViewFromXml [-List <ListPipeBind>] [-Web <WebPipeBind>] -FieldXml <String>
+Add-SPOViewFromXml [-List <ListPipeBind>] [-Web <WebPipeBind>] -ViewXml <String>
 ```
 
 
